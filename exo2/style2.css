@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    flex-direction: column;  
+    gap: 10px;
+}
+
+.carres{
+    display: flex;
+    gap: 10px;
+}
+
+.carre {
+    width: 200px;
+    height: 200px;
+}
+
+.carre1 {
+    background-color: green;
+}
+
+.carre2 {
+    background-color: rgb(19, 111, 187);
+}
+
+.carre3 {
+    background-color: rgb(218, 117, 23);
+}
+
+.carre4 {
+    background-color: rgb(191, 211, 15);
+}
+
+.carre5{
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+} 
