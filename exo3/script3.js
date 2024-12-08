@@ -15,6 +15,5 @@ tousLesCarres.forEach((unCarre) => {
 
     unCarre.addEventListener("mouseover", function(){
         unCarre.style.cursor = "pointer";
-
     });
 })

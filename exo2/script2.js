@@ -13,6 +13,6 @@ tousLesCarres.forEach((unCarre) => {
         carre5.innerText = bgColor;
         // assigne la couleur du bgColor de l'autre carré
         carre5.style.backgroundColor =bgColor;
-    })
+    });
 })
 

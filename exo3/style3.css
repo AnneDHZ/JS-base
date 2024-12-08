@@ -18,7 +18,7 @@ body {
     transition: 1s;
 }
 
-.carre-clicked{
+.carre-clicked {
     background-color: rgb(216, 30, 30);
     transform: scale(0.9) rotate(360deg);
 }

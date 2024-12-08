@@ -109,7 +109,7 @@ quotes.forEach(quote =>{
     citation.addEventListener("click", function(){
         citation.classList.toggle("citation-clicked");
        });
-})
+});
 
 
 

@@ -16,8 +16,8 @@ icones.forEach((icone) => {
         } else {
             icone.classList.remove("active")
             icone.classList.remove("i-clicked")
-            container.style.backgroundColor = "#b4b1b1"
-        }
+            container.style.backgroundColor = "#b4b1b1";
+        };
     })
 })
 
